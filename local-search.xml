@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>videro_resize</title>
+    <link href="/2022/04/13/videro-resize/"/>
+    <url>/2022/04/13/videro-resize/</url>
+    
+    <content type="html"><![CDATA[<p>测试调整视频播放框的大小。</p><iframe src="//player.bilibili.com/player.html?aid=595513986&bvid=BV1rq4y1a7dN&cid=573835757&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>test</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>video_test</title>
     <link href="/2022/04/12/video-test/"/>
     <url>/2022/04/12/video-test/</url>
